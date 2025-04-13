@@ -28,6 +28,7 @@ make start
 ## Build Setup without Docker
 
 ``` bash
+ATTENTION CHANGE shelljs 0.8.2 to 0.8.5 in package.js
 # install dependencies
 yarn
 
